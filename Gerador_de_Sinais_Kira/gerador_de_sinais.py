@@ -65,7 +65,7 @@ timeframe = int(input())
 print('\nQuantos dias deseja analisar?: ', end='')
 dias = int(input())
 
-print('\nQual payout mínimo?: ', end='')
+print('\nQual porcetagem mínima ?: ', end='')
 porcentagem = int(input())
 
 print('\nQuantos martingales?: ', end='')
